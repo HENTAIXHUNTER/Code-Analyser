@@ -1,7 +1,3 @@
-Voici la description revue, sans emojis et avec un ton plus professionnel :
-
----
-
 ## Code Analyser — Assistant de Correction de Code
 
 ### Présentation
